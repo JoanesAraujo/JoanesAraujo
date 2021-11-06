@@ -1,8 +1,8 @@
-## Opa, eu sou: Joanes Cavalcanti de Araújo, criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!
+## Opa, eu sou: Joanes Cavalcanti de Araújo, criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
 
 - 🌱 Atualmente estou estudando na plataforma DIO da Avanade ( CIÊNCIA DE DADOS )
-- 👯 Estou procurando apresentar meus exercícios e projetos
-- 📫 Meus Contatos: linkedin | Guithub | Gmail
+- 👯 Estou apresentando meus exercícios e projetos
+- 📫 Meus contatos abaixo: linkedin | Github | Gmail
 
 <div align="">
 <a href="https://www.linkedin.com/in/joanes-cavalcanti-68b86099/">
@@ -17,6 +17,7 @@
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
