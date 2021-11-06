@@ -1,4 +1,5 @@
-## Opa, eu sou: Joanes Cavalcanti de Araújo, criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
+## Olá Mundo 🌎, Meu Nome: Joanes Cavalcanti de Araújo.
+## Criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
 
 - 🌱 Atualmente estou estudando na plataforma DIO da Avanade ( CIÊNCIA DE DADOS )
 - 👯 Estou apresentando meus exercícios e projetos
