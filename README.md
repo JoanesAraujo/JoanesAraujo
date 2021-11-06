@@ -1,4 +1,4 @@
-## Olá Mundo 🌎, Meu Nome: Joanes Cavalcanti de Araújo.
+## Olá Mundo 🌎, Eu sou Joanes.
 ## Criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
 
 - 🌱 Atualmente estou estudando na plataforma DIO da Avanade ( CIÊNCIA DE DADOS )
@@ -18,6 +18,7 @@
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
