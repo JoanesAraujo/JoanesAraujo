@@ -2,8 +2,8 @@
 ## Criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
 
 - 🌱 Atualmente estou estudando na plataforma DIO da Avanade ( CIÊNCIA DE DADOS )
-- 👯 Estou apresentando meus exercícios e projetos
-- 📫 Meus contatos abaixo: linkedin | Github | Gmail
+- 👯 Estou apresentando meus exercícios e projetos.
+- 📫 Meus contatos estão abaixo.
 
 <div align="">
 <a href="https://www.linkedin.com/in/joanes-cavalcanti-68b86099/">
