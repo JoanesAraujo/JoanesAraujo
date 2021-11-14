@@ -6,7 +6,7 @@
 - ⚡ Meu Hobbie: Música, Games Retrô, Streaming, Bar e Restaurante com amigos.
 
 <div align="">
-<a href="https://www.linkedin.com/in/joanes-cavalcanti-68b86099/">
+<a href="">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joanesaraujo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanesaraujo&layout=compact&langs_count=7&theme=github_dark"/>    
 </div>
