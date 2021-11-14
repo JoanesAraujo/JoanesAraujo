@@ -4,6 +4,7 @@
 - 🌱 Atualmente estou estudando na plataforma DIO da Avanade ( CIÊNCIA DE DADOS )
 - 👯 Estou apresentando meus exercícios e projetos.
 - ⚡ Meu Hobbie: Música, Games Retrô, Streaming, Bar e Restaurante com amigos.
+- 🙂 Pronomes: Ele/Dele
 
 <div align="">
 <a href="https://github.com/JoanesAraujo/">
