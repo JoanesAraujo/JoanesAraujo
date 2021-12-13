@@ -1,7 +1,7 @@
 ## Olá Mundo 🌎, Eu sou Joanes.
 ## Criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
 
-- 🌱 Atualmente estou estudando na plataforma DIO da Avanade, udemy e outros... Tudo voltado para área de CIENCIA DE DADOS.
+- 🌱 Atualmente estou estudando nas plataformas: DIO (da Avanade), udemy e outros... Tudo voltado para área de CIENCIA DE DADOS.
 - 👯 Estou apresentando meus exercícios e projetos.
 - ⚡ Meu Hobbie: Música, Games Retrô, Streaming, Bar e Restaurante com amigos.
 - 🙂 Pronomes: Ele/Dele
