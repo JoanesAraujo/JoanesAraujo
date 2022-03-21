@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando nas plataformas: DIO (da Avanade), udemy e outros... A maioria voltados para área de: CIENCIA DE DADOS, BUSINESS INTELIGENCE, BUSINESS ANALYTICS, ANÁLISE DE DADOS...
 - 💻 Estou apresentando meus exercícios e projetos.
-- ⚡ Meu Hobbie: Música, Games Retrô, Streaming, Bar e Restaurante com amigos.
+- ⚡ Meu Hobbie: Música, Games Retrô, Streaming, tecnologias, Barzinho com amigos.
 - 🙂 Pronomes: Ele/Dele
 
 <div align="">
@@ -24,8 +24,7 @@
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img align="center" alt="joanes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div> 
