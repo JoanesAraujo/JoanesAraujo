@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando nas plataformas: DIO (da Avanade), udemy e outros... A maioria voltados para área de: CIENCIA DE DADOS, BUSINESS INTELIGENCE, BUSINESS ANALYTICS, ANÁLISE DE DADOS...
 - 💻 Estou apresentando meus exercícios e projetos.
-- ⚡ Meu Hobbie: Música, Games Retrô, Streaming, tecnologias, Barzinho com amigos.
+- ⚡ Meu Hobbie: Música, Games Retrô, Streaming, Tecnologias, Barzinho com amigos...
 - 🙂 Pronomes: Ele/Dele
 
 <div align="">
