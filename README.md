@@ -1,8 +1,8 @@
 ## Olá Mundo 🌎, Eu sou Joanes.
 ## Criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
 
-- 🌱 Atualmente estou estudando nas plataformas: DIO (da Avanade), udemy e outros... A maioria voltados para área de: CIENCIA DE DADOS, BUSINESS INTELIGENCE, BUSINESS ANALYTICS, ANÁLISE DE DADOS...
-- 💻 Estou apresentando meus exercícios e projetos.
+- 🌱 Atualmente: Estou participando do programa da ImpulsoTec. Projeto de profissionalização remunerada na área de tecnologia da informação, parceria essa, iniciada entre a: Accenture, AWS (Amazon Web Service) e do Banco Itaú. DESENVOLVEDOR BACK-END, qualificação da qual fui designado.
+- 💻 Nesse GITHUB apresentando meus exercícios e projetos.
 - ⚡ Meu Hobbie: Música, Games Retrô, Streaming, Tecnologias, Barzinho com amigos...
 - 🙂 Pronomes: Ele/Dele
 
