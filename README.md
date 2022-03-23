@@ -1,7 +1,7 @@
 ## Olá Mundo 🌎, Eu sou Joanes.
 ## Criador de conteúdo de programação e tecnologia. Editor de vídeo, imagens... Nas horas vagas!😆
 
-- 🌱 Atualmente: Estou participando do programa da ImpulsoTec. Projeto de profissionalização remunerada na área de tecnologia da informação, parceria essa, iniciada entre a: Accenture, AWS (Amazon Web Service) e do Banco Itaú. DESENVOLVEDOR BACK-END, qualificação da qual fui designado. iniciado em 21/03/2022
+- 🌱 Atualmente: Estou participando do programa da ImpulsoTec. Projeto de profissionalização remunerada na área de tecnologia da informação, parceria essa, iniciada entre a: Accenture, AWS (Amazon Web Service) e do Banco Itaú. DESENVOLVEDOR BACK-END, qualificação da qual fui designado. iniciado em 21/03/2022.
 - 💻 Nesse GITHUB apresentando meus exercícios e projetos.
 - ⚡ Meu Hobbie: Música, Games Retrô, Streaming, Tecnologias, Barzinho com amigos...
 - 🙂 Pronomes: Ele/Dele
