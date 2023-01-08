@@ -1,4 +1,4 @@
-<img src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/banner/banner.png" />
+<img src="https://github.com/JoanesAraujo/Joanes_Screenshot/blob/master/banner/bannerjoanes.png" />
 <h4 align="center">Atualmente: Participei do programa ImpulsoTec. Projeto de profissionalização remunerada na área de tecnologia da informação, parceria essa, iniciada entre a: Accenture, AWS (Amazon Web Service) e do Banco Itaú. DESENVOLVEDOR BACK-END, qualificação da qual fui designado. iniciado em 21/03/2022. 
 
 Currently: Participated in the ImpulsoTec program. Remunerated professionalization project in the area of information technology, a partnership initiated between: Accenture, AWS (Amazon Web Service) and Banco Itaú. BACK-END DEVELOPER, qualification for which I was assigned. started on 03/21/2022.</h4>
