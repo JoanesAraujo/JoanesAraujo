@@ -10,8 +10,6 @@ Currently: Participated in the ImpulsoTec program. Remunerated professionalizati
 
 - 🌱 I’m currently learning **Quarkus Framework**
 
-- 📫 How to reach me **joanescaraujo@gmail.com**
-
 - 💻 In this GITHUB presenting my exercises and projects.
 
 <h3 align="left">Connect with me:</h3>
