@@ -27,7 +27,7 @@ Currently: Participated in the ImpulsoTec program. Remunerated professionalizati
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanesaraujo&show_icons=true&locale=en&layout=compact" alt="joanesaraujo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joanesaraujo&show_icons=true&locale=en" alt="joanesaraujo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joanesaraujo&show_icons=true&locale=en" alt="joanesaraujo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joanesaraujo&" alt="joanesaraujo" /></p>
 
