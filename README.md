@@ -31,5 +31,6 @@ Currently: Participated in the ImpulsoTec program. Remunerated professionalizati
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joanesaraujo&" alt="joanesaraujo" /></p>
 
+
 ![Snake animation](https://github.com/JoanesAraujo/JoanesAraujo/blob/output/github-contribution-grid-snake.svg)
 
