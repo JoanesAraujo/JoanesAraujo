@@ -1,6 +1,6 @@
 <img src="https://github.com/JoanesAraujo/JoanesAraujo/blob/main/header.png" />
 <h4 align="center">
-Currently: Participated in the ImpulsoTec program. Remunerated professionalization project in the area of information technology, a partnership initiated between: Accenture, AWS (Amazon Web Service) and itaú bank. BACK-END DEVELOPER, qualification for which I was assigned. started on 03/21/2022.</h4>
+Currently: I'm learning quarks.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanesaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="joanesaraujo" /> </p>
 
