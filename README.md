@@ -34,7 +34,7 @@ Currently: A backend developer from Recife/PE - Brasil.</h4>
   srcset="https://github-readme-stats.vercel.app/api?username=joanesaraujo&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=joanesaraujo&show_icons=true" />
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=joanesaraujo&show_icons=true" />
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanesaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
