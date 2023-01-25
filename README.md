@@ -1,12 +1,12 @@
 <img src="https://github.com/JoanesAraujo/JoanesAraujo/blob/main/header.png" />
 <h4 align="center">
-Currently: I'm learning quarks.</h4>
+Currently: A backend developer from Recife/PE - Brasil.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanesaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="joanesaraujo" /> </p>
 
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350" height="250">
 
-- 🔭 I’m currently working on **ImpulsoTec**
+- 🔭 I’m currently working on **Accenture**
 
 - 🌱 I’m currently learning **Quarkus Framework**
 
