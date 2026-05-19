@@ -130,12 +130,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<div align="left">
-  <a href="https://github.com/JoanesAraujo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoanesAraujo&show_icons=true&theme=default"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanesAraujo&layout=compact&langs_count=7&theme=default"/>
-  </a>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=joanesaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/JoanesAraujo?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
 <br>
 
