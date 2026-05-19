@@ -123,17 +123,17 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a>
 
-  <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
-    <img src="https://icons-for-free.com/iconfiles/png/512/quarkus-1324440220361525251.png" alt="quarkus" width="40" height="40"/>
-  </a>
+<a href="https://quarkus.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" alt="quarkus" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="left">
-  <a href="https://github.com/JoanesAraujo/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joanesaraujo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanesaraujo&layout=compact&langs_count=7&theme=default"/>
+  <a href="https://github.com/JoanesAraujo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoanesAraujo&show_icons=true&theme=default"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanesAraujo&layout=compact&langs_count=7&theme=default"/>
   </a>
 </div>
 
