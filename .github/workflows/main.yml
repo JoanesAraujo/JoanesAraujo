@@ -5,6 +5,9 @@ on:
     # Atualiza diariamente às 03:15 UTC.
     - cron: "15 3 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/main.yml"
 
 permissions:
   contents: write
